@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://fusion58.com">fusion58.com</a> ·
   <a href="https://route.fusion58.com">route.fusion58.com</a> ·
-  <a href="mailto:hola@fusion58.com">hola@fusion58.com</a>
+  <a href="mailto:info@fusion58.com">info@fusion58.com</a>
 </p>
 
 ---
@@ -45,5 +45,5 @@ Fusion58 es un estudio independiente de desarrollo de software con sede en Carac
 ## Contacto
 
 - Web: [fusion58.com](https://fusion58.com)
-- Email: [hola@fusion58.com](mailto:hola@fusion58.com)
+- Email: [info@fusion58.com](mailto:info@fusion58.com)
 - Ubicación: Caracas, Venezuela
