@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./profile/logo.png" alt="Fusion58" width="360">
+  <img src="./logo.png" alt="Fusión58" width="360">
 </p>
 
-<h1 align="center">Fusion58</h1>
+<h1 align="center">Fusión58</h1>
 
 <p align="center">
   <strong>Ingeniería con criterio. Productos que piensan por sí mismos.</strong>
@@ -19,7 +19,7 @@
 
 ## Quiénes somos
 
-Fusion58 es un estudio independiente de desarrollo de software con sede en Caracas, Venezuela. Diseñamos y construimos soluciones que combinan ingeniería rigurosa con productos inteligentes — equipos pequeños, foco en calidad sin compromisos.
+Fusión58 es un estudio independiente de desarrollo de software con sede en Caracas, Venezuela. Diseñamos y construimos soluciones que combinan ingeniería rigurosa con productos inteligentes — equipos pequeños, foco en calidad sin compromisos.
 
 ## Qué hacemos
 
