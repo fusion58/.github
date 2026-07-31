@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://fusion58.com">fusion58.com</a> ·
   <a href="https://route.fusion58.com">route.fusion58.com</a> ·
-  <a href="https://chat.fusion58.com">chat.fusion58.com</a> ·
   <a href="mailto:info@fusion58.com">info@fusion58.com</a>
 </p>
 
@@ -33,7 +32,6 @@ Fusión58 es un estudio independiente de desarrollo de software con sede en Cara
 | Producto | Descripción |
 |---|---|
 | **[Route58](https://route.fusion58.com)** | Plataforma de localización y telemetría en tiempo real. Multi-activo: vehículos, personas, mascotas, activos, sensores y embarcaciones. |
-| **[Chat58](https://chat.fusion58.com)** | Asistente conversacional con inteligencia artificial para atención al cliente. |
 
 ## Contacto
 
